@@ -25,9 +25,9 @@
       url: https://github.com/jdedios-de
 - key: Project
   value:
-    - key: Portfolio Website
-      value: An AI-powered tool to assist nurses by automating administrative tasks
-      tech: Fastapi, SQLModel, Pydantic, Logfire, OAuth2 , Langchain (RAG), Generative AI models ChatGPT 
+    - key: Nursing Assistant Application
+    - value: An AI-powered tool to assist nurses by automating administrative tasks
+    - tech: Fastapi, SQLModel, Pydantic, Logfire, OAuth2 , Langchain (RAG), Generative AI models ChatGPT 
       url: https://github.com/masterschool-weiterbildung/ai_project
 - key: Skills
   value:
