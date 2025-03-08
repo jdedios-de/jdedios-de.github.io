@@ -7,7 +7,8 @@
     - Welcome to my portfolio!
   typed: true
 - key: CV
-  value: Available upon request
+  value: Available upon request or Explore my CV interactively! Ask questions and get answers powered by a custom RAG system.
+  url: "https://rag-jerome-cv.onrender.com/docs"
 - key: Location
   value: Based in Auerbach/Vogtland, near Dresden Germany
 - key: Contact
