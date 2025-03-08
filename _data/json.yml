@@ -38,6 +38,9 @@
     - key: Masterschool Projects
       value: I completed during my Software Engineering bootcamp with Masterschool.
       url: https://github.com/masterschool-weiterbildung
+    - key: Interactive CV
+      value: Explore my CV interactively
+      url: https://github.com/jdedios-de/rag_jerome_cv
 - key: Skills
   value:
     - Python
