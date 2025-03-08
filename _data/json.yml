@@ -9,7 +9,7 @@
 - key: CV
   value: Available upon request
 - key: Location
-  value: Based in Auerbach/Vogtland, Germany
+  value: Based in Auerbach/Vogtland, near Dresden Germany
 - key: Contact
   value:
     - key: Phone
@@ -30,10 +30,14 @@
       url: https://github.com/masterschool-weiterbildung/ai_project
     - key: Tech
       value: Fastapi, SQLModel, Pydantic, Logfire, OAuth2 , Langchain (RAG), Generative AI models ChatGPT 
+    - key: Masterschool Projects
+      value: I completed during my Software Engineering bootcamp with Masterschool.
+      url: https://github.com/masterschool-weiterbildung
 - key: Skills
   value:
     - Python
-    - Git
     - Java
+    - Git
+    - Application Support Tools
 - key: Call to Action
   value: Check out my projects
