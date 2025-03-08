@@ -26,9 +26,10 @@
 - key: Project
   value:
     - key: Nursing Assistant Application
-    - value: An AI-powered tool to assist nurses by automating administrative tasks
-    - tech: Fastapi, SQLModel, Pydantic, Logfire, OAuth2 , Langchain (RAG), Generative AI models ChatGPT 
+      value: An AI-powered tool to assist nurses by automating administrative tasks
       url: https://github.com/masterschool-weiterbildung/ai_project
+    - key: Tech
+      value: Fastapi, SQLModel, Pydantic, Logfire, OAuth2 , Langchain (RAG), Generative AI models ChatGPT 
 - key: Skills
   value:
     - Python
