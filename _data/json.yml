@@ -43,9 +43,6 @@
       url: https://github.com/jdedios-de/rag_jerome_cv
 - key: Skills
   value:
-    - Python
-    - Java
-    - Git
-    - Application Support Tools
+    - Python, Java, Git and Application Support Tools
 - key: Call to Action
   value: Check out my projects
