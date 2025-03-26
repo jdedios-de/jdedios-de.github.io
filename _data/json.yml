@@ -15,7 +15,7 @@
       value: PDF File
       url: https://github.com/jdedios-de/rag_jerome_cv/blob/main/Jerome de Dios.pdf
 - key: Location
-  value: Based near Dresden Germany
+  value: Near Dresden Germany
 - key: Contact
   value:
     - key: Phone
@@ -33,6 +33,8 @@
       url: https://discord.gg/pa3YjdQG
     - value: Signal
       url: Privacy is a must
+    - value: BlueSky
+      url: Pseudonymity is a must
 - key: Project
   value:
     - key: Nursing Assistant Application
