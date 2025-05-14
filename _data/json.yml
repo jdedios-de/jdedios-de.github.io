@@ -31,10 +31,6 @@
       url: https://github.com/jdedios-de
     - value: Discord
       url: https://discord.gg/pa3YjdQG
-    - value: Signal
-      url: Privacy is a must
-    - value: BlueSky
-      url: Pseudonymity is a must
 - key: Project
   value:
     - key: Nursing Assistant Application
