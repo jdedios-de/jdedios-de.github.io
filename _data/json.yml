@@ -2,7 +2,7 @@
   value: Jerome de Dios
 - key: Description
   value:
-    - Hello! I'm Jerome, a Python Developer, Application Support Engineer and Java Developer
+    - I'm Jerome, a Python Developer, Application Support Engineer and Java Developer
     - With over a decade of experience in software development, site reliability, and application support
     - Welcome to my portfolio!
   typed: true
@@ -15,7 +15,7 @@
       value: PDF File
       url: https://github.com/jdedios-de/rag_jerome_cv/blob/main/Jerome de Dios.pdf
 - key: Location
-  value: Near Dresden Germany
+  value: Dresden Area Germany
 - key: Contact
   value:
     - key: Phone
@@ -27,6 +27,8 @@
   value:
     - value: LinkedIn
       url: https://www.linkedin.com/in/jeromededios/
+    - value: LinkedIn Recommendations
+      url: https://www.linkedin.com/in/jeromededios/details/recommendations/?detailScreenTabIndex=0
     - value: GitHub
       url: https://github.com/jdedios-de
     - value: Discord
@@ -34,12 +36,12 @@
 - key: Project
   value:
     - key: Nursing Assistant Application
-      value: An AI-powered tool to assist nurses by automating administrative tasks
+      value: An AI-powered tool to assist nurses by automating administrative tasks and chatbot
       url: https://github.com/masterschool-weiterbildung/ai_project
     - key: Tech
       value: Fastapi, SQLModel, Pydantic, Logfire, OAuth2 , Langchain (RAG), Generative AI models ChatGPT 
     - key: Masterschool Projects
-      value: I completed during my Software Engineering bootcamp with Masterschool.
+      value: During Software Engineering bootcamp with Masterschool.
       url: https://github.com/masterschool-weiterbildung
     - key: Interactive CV
       value: Explore my CV interactively
