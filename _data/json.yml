@@ -39,13 +39,13 @@
       value: An AI-powered tool to assist nurses by automating administrative tasks and chatbot
       url: https://github.com/masterschool-weiterbildung/ai_project
     - key: Tech
-      value: Fastapi, SQLModel, Pydantic, Logfire, OAuth2 , Langchain (RAG), Generative AI models ChatGPT 
+      value: Fastapi, SQLModel, Pydantic, Logfire, OAuth2 , Langchain (RAG), Generative AI models ChatGPT
+    - key: AWS Grocery Infra
+      value: Terraform-managed AWS infrastructure for the Grocery App
+      url: https://github.com/jdedios-de/AWS_grocery
     - key: Masterschool Projects
       value: During Software Engineering bootcamp with Masterschool.
       url: https://github.com/masterschool-weiterbildung
-    - key: Interactive CV
-      value: Explore my CV interactively
-      url: https://github.com/jdedios-de/rag_jerome_cv
 - key: Skills
   value:
     - Python, Java, and Application Support Tools
